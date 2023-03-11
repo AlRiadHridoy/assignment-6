@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7dbafe83.css",
-    "main.js": "/static/js/main.9c92cba5.js",
+    "main.js": "/static/js/main.2918b50b.js",
     "static/js/787.a52ec9d1.chunk.js": "/static/js/787.a52ec9d1.chunk.js",
     "static/media/LWSBlog.svg": "/static/media/LWSBlog.da41d2c5af29552cef9e230ea65445b7.svg",
     "index.html": "/index.html",
     "main.7dbafe83.css.map": "/static/css/main.7dbafe83.css.map",
-    "main.9c92cba5.js.map": "/static/js/main.9c92cba5.js.map",
+    "main.2918b50b.js.map": "/static/js/main.2918b50b.js.map",
     "787.a52ec9d1.chunk.js.map": "/static/js/787.a52ec9d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dbafe83.css",
-    "static/js/main.9c92cba5.js"
+    "static/js/main.2918b50b.js"
   ]
 }
